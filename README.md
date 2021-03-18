@@ -1,3 +1,5 @@
 # Provatura
 Primer assaig
-Afegitó primer
+Afegitó PRIMER
+
+Cal revisar-ho tot
